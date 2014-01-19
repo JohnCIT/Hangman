@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="controllers.MainCont.QuitAction" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/MainCont.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1163" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="gui.CustomJlistCellRenderer" project="AUIproj2" 
+    file="/AUIproj2/src/gui/CustomJlistCellRenderer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2748" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="controllers.MainCont" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/MainCont.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="211" x="2310" y="119"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="util.RandomNumbers" project="AUIproj2" 
+    file="/AUIproj2/src/util/RandomNumbers.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2655" y="731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="gui.HangmanPanel" project="AUIproj2" file="/AUIproj2/src/gui/HangmanPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="172" x="1397" y="1487"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="controllers.MainCont.LetterListSelection" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/MainCont.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="193" x="1668" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="inputOutput.SaveAndLoadHighScores" project="AUIproj2" 
+    file="/AUIproj2/src/inputOutput/SaveAndLoadHighScores.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2406" y="741"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="inputOutput.LoadDictionaryWords" project="AUIproj2" 
+    file="/AUIproj2/src/inputOutput/LoadDictionaryWords.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2408" y="896"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="main.HighScoreArrayList" project="AUIproj2" 
+    file="/AUIproj2/src/main/HighScoreArrayList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="135" x="1901" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="main.Main" project="AUIproj2" file="/AUIproj2/src/main/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2182" y="744"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="gui.View" project="AUIproj2" file="/AUIproj2/src/gui/View.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="891" width="221" x="1397" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="controllers.MainCont.SaveAction" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/MainCont.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2076" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="controllers.MainCont.LoadAction" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/MainCont.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2310" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="gui.CustomDialogComboBox" project="AUIproj2" 
+    file="/AUIproj2/src/gui/CustomDialogComboBox.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="194" x="1600" y="119"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="controllers.MainCont.FeedBack" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/MainCont.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2544" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="controllers.MainCont.StartGameAction" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/MainCont.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2778" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="17" language="java" name="util.DifficultyEnum.Difficulty" project="AUIproj2" 
+    file="/AUIproj2/src/util/DifficultyEnum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="119" x="3532" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="18" language="java" name="controllers.GameController" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/GameController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="275" x="3012" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="controllers.MainCont.GuessWordAction" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/MainCont.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="165" x="3327" y="546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="controllers.WordManager" project="AUIproj2" 
+    file="/AUIproj2/src/controllers/WordManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="187" x="2083" y="119"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="gui.GuiUtil" project="AUIproj2" file="/AUIproj2/src/gui/GuiUtil.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="209" x="1834" y="119"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="util.DifficultyEnum" project="AUIproj2" 
+    file="/AUIproj2/src/util/DifficultyEnum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="105" x="3532" y="119"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="23">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <nesting id="24">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <association id="25">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="26" name="highScore"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="28">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <association id="29">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="30" name="currentInstance"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="32">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <association id="33">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="34" name="hangmanPan"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="37" name="gameCont"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="39">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <association id="40">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="41" name="view"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="43">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <nesting id="44">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <nesting id="45">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
